@@ -21,7 +21,6 @@ g.     ‘b’: verify which element is bigger;
 h.     ‘s’:verify which element is smaller;
 
 ●      *Please add the possibility to write both variable values and the option in the console. Read, verify and do an algorithm
-...
 */
 
 Console.WriteLine("Please enter the first digit.");
