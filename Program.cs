@@ -22,7 +22,7 @@ h.     ‘s’:verify which element is smaller;
 
 ●      *Please add the possibility to write both variable values and the option in the console. Read, verify and do an algorithm
 
-●      commit, create pull request and merge your work
+●      commit, create pull request and merge your work.
 */
 
 Console.WriteLine("Please enter the first digit.");
